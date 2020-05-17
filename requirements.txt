@@ -2,5 +2,5 @@ PIL
 convertapi
 oauth2client
 gspread
-python-telegram-bot==11.1.0
+python-telegram-bot==12.7
 Pillow
