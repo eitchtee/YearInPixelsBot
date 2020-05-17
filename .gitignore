@@ -152,3 +152,5 @@ cython_debug/
 .idea/vgrant.xml
 .idea/vcs.xml
 app/
+
+google_api.json
